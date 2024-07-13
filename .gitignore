@@ -5,3 +5,5 @@ WAVs/
 (NON-FUNCTIONAL) Synthesizer-App/
 _saved_tf_models/
 GeneratedData/
+*saved_tf_models/
+.DS_Store
