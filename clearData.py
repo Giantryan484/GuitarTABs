@@ -2,7 +2,7 @@ import os
 import shutil
 
 # List of folders from which to delete files
-folders_to_clean = ["MIDIs", "WAVs", "Spectrograms", "Data", "GeneratedData"]
+folders_to_clean = ["MIDIs", "WAVs", "Spectrograms", "GeneratedData", "Data(4BackContext)"]
 
 def delete_files_in_folder(folder_path):
     """ Deletes all files in the specified folder without removing the folder itself """
